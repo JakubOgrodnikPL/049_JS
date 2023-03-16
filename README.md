@@ -1,3 +1,3 @@
 # 049_JS
-Exercise in JavaScript
-Udemy Course. ToDoList.
+ToDoList in JavaScript
+Udemy Course.
